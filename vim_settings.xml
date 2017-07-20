@@ -1,0 +1,79 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="G:/JaveProject/src/DeriveT.java" timestamp="1498903108364">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="4" />
+      </file>
+      <file name="G:/JaveProject/src/BaseT.java" timestamp="1498902096275" />
+      <file name="/fragment.java" timestamp="1498902036771">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="G:/JaveProject/src/Main.java" timestamp="1498903142903">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text>public class Main
+{
+    public void main(String[] args)
+    {
+        BaseT bt = new BaseT();
+        System.out.println(bt.GetInt());
+        System.out.println(&quot;Hello World!&quot;);
+    }
+}</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Override</text>
+      </register>
+      <register name="-" type="4">
+        <text>Override</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <StubPackage>client</StubPackage>
+    <StubPackage>mypackage</StubPackage>
+    <StubUrl>file:/G:/JaveProject/JaxwsWebService/src/example/HelloWorld.wsdl</StubUrl>
+    <StubUrl>file:/G:/JaveProject/JaxwsWebService/src/client/HelloWorld.wsdl</StubUrl>
+    <StubUrl>file:/G:/JaveProject/WebServices/src/example/HelloWorld.wsdl</StubUrl>
+    <StubUrl>file:/G:/JaveProject/WebServices/src/client/HelloWorld.wsdl</StubUrl>
+    <StubUrl>http://localhost:9001/HelloWorld?wsdl</StubUrl>
+    <StubUrl>http://localhost:9001/HelloWorld</StubUrl>
+  </component>
+</application>
